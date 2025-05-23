@@ -1,29 +1,24 @@
-// languages.js - JavaScript array of language objects
-
-const languages = [
-  // Spanish Language Card
-  {
-    name: "Spanish",
-    icon: "https://i.pinimg.com/originals/6e/16/38/6e1638392de4d052be1a881cc9e179e9.png"
-  },
-  // French Language Card
-  {
-    name: "French",
-    icon: "https://cdn.countryflags.com/thumbs/france/flag-waving-250.png"
-  },
-  // German Language Card
-  {
-    name: "German",
-    icon: "https://em-content.zobj.net/source/twitter/348/flag-germany_1f1e9-1f1ea.png"
-  },
-  // Japanese Language Card
-  {
-    name: "Japanese",
-    icon: "https://www.clipartmax.com/png/middle/273-2736859_flag-of-japan-japan-flag-emoji-png.png"
-  },
-  // Hindi Language Card
-  {
-    name: "Hindi",
-    icon: "https://th.bing.com/th/id/OIP.d7HEbTgNISh78VqaTkOcMQAAAA?rs=1&pid=ImgDetMain"
-  }
-];
+{
+  "languages": [
+    {
+      "name": "Spanish",
+      "icon": "https://cdn-icons-png.flaticon.com/512/197/197593.png"
+    },
+    {
+      "name": "French",
+      "icon": "https://cdn-icons-png.flaticon.com/512/197/197560.png"
+    },
+    {
+      "name": "German",
+      "icon": "https://cdn-icons-png.flaticon.com/512/197/197571.png"
+    },
+    {
+      "name": "Hindi",           // Language spoken widely in India
+      "icon": "https://cdn-icons-png.flaticon.com/512/197/197419.png"  // 🇮🇳 Indian flag
+    },
+    {
+      "name": "Japanese",       // Language spoken in Japan
+      "icon": "https://cdn-icons-png.flaticon.com/512/197/197604.png"  // 🇯🇵 Japanese flag
+    }
+  ]
+}
