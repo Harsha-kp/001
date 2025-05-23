@@ -13,12 +13,12 @@
       "icon": "https://cdn-icons-png.flaticon.com/512/197/197571.png"
     },
     {
-      "name": "Hindi",           // Language spoken widely in India
-      "icon": "https://cdn-icons-png.flaticon.com/512/197/197419.png"  // 🇮🇳 Indian flag
+      "name": "Hindi",           
+      "icon": "https://cdn-icons-png.flaticon.com/512/197/197419.png"  
     },
     {
-      "name": "Japanese",       // Language spoken in Japan
-      "icon": "https://cdn-icons-png.flaticon.com/512/197/197604.png"  // 🇯🇵 Japanese flag
+      "name": "Japanese",       
+      "icon": "https://cdn-icons-png.flaticon.com/512/197/197604.png"  
     }
   ]
 }
